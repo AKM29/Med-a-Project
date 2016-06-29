@@ -1,0 +1,24 @@
+C:\Users\Alex\Desktop\Med!a\Med!a\bin\Debug\Med!a.exe.config
+C:\Users\Alex\Desktop\Med!a\Med!a\bin\Debug\Med!a.exe
+C:\Users\Alex\Desktop\Med!a\Med!a\bin\Debug\Med!a.pdb
+C:\Users\Alex\Desktop\Med!a\Med!a\bin\Debug\MahApps.Metro.dll
+C:\Users\Alex\Desktop\Med!a\Med!a\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Alex\Desktop\Med!a\Med!a\bin\Debug\MahApps.Metro.pdb
+C:\Users\Alex\Desktop\Med!a\Med!a\bin\Debug\MahApps.Metro.xml
+C:\Users\Alex\Desktop\Med!a\Med!a\obj\Debug\Med!a.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Med!a\Med!a\obj\Debug\MainWindow.g.cs
+C:\Users\Alex\Desktop\Med!a\Med!a\obj\Debug\App.g.cs
+C:\Users\Alex\Desktop\Med!a\Med!a\obj\Debug\Med!a_MarkupCompile.cache
+C:\Users\Alex\Desktop\Med!a\Med!a\obj\Debug\Med!a_MarkupCompile.lref
+C:\Users\Alex\Desktop\Med!a\Med!a\obj\Debug\MainWindow.baml
+C:\Users\Alex\Desktop\Med!a\Med!a\obj\Debug\Med!a.g.resources
+C:\Users\Alex\Desktop\Med!a\Med!a\obj\Debug\Med_a.Properties.Resources.resources
+C:\Users\Alex\Desktop\Med!a\Med!a\obj\Debug\Med!a.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\Med!a\Med!a\obj\Debug\Med!a.exe
+C:\Users\Alex\Desktop\Med!a\Med!a\obj\Debug\Med!a.pdb
+C:\Users\Alex\Desktop\Med!a\Med!a\obj\Debug\App.baml
+C:\Users\Alex\Desktop\Med!a\Med!a\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Alex\Desktop\Med!a\Med!a\bin\Debug\taglib-sharp.dll
+C:\Users\Alex\Desktop\Med!a\Med!a\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Alex\Desktop\Med!a\Med!a\obj\Debug\Edit MP3.g.cs
+C:\Users\Alex\Desktop\Med!a\Med!a\obj\Debug\Edit MP3.baml
